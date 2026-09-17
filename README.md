@@ -150,7 +150,7 @@ secure, maintainable, and product-oriented applications.
 <td width="50%" valign="top">
 
 ## 🔐 NexusVault
-<a href="https://nexusvault.dev"
+<a href="https://nexusvault.dev">
  <img src="https://img.shields.io/badge/SECURE_SYSTEM-00D084?style=for-the-badge&logo=shield&logoColor=black"/>
 </a>
 
