@@ -150,10 +150,9 @@ secure, maintainable, and product-oriented applications.
 <td width="50%" valign="top">
 
 ## 🔐 NexusVault
-
-<img
-  src="https://img.shields.io/badge/SECURE_SYSTEM-00D084?style=for-the-badge&logo=shield&logoColor=black"
-/>
+<a href="https://nexusvault.dev"
+ <img src="https://img.shields.io/badge/SECURE_SYSTEM-00D084?style=for-the-badge&logo=shield&logoColor=black"/>
+</a>
 
 A security-focused password management platform designed around modern
 authentication and encrypted credential storage.
@@ -171,7 +170,7 @@ authentication and encrypted credential storage.
 
 `Laravel` `PHP` `PostgreSQL` `WebAuthn` `Docker` `Linux`
 
-<a href="LIEN_REPO_NEXUSVAULT">
+<a href="https://github.com/PhilJordan18/NexusVault.git">
   <img src="https://img.shields.io/badge/View_Project-00D084?style=flat-square&logo=github&logoColor=black" />
 </a>
 
